@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation of home automation using an ESP8266 microcontroller, a relay module, and various web technologies such as C++, HTML, CSS, and the Arduino IDE. The system allows you to control and monitor electrical appliances remotely through a web-based interface.
 
+Youtube Video Link: https://youtu.be/kHKp_HGNLFs
+
 ## Hardware Components
 
 1. ESP8266 Microcontroller: The ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack capabilities. It acts as the brain of the home automation system and connects to your Wi-Fi network to enable communication with other devices.
